@@ -1,0 +1,28 @@
+{
+  "name": "poc-service-workers",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "serve": "webpack-dev-server --open",
+    "test": "mocha --opts ./test/config/mocha.opts ./test/*.spec.js"
+  },
+  "keywords": [
+    "service",
+    "workers",
+    "async-storage",
+    "remote-control"
+  ],
+  "author": "jbaudin",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.0.2",
+    "mocha": "^3.4.2",
+    "mocha-sinon": "^2.0.0",
+    "proxyquire": "^1.8.0",
+    "sinon": "^2.3.6",
+    "sw-precache": "^5.2.0",
+    "webpack": "^3.0.0",
+    "webpack-dev-server": "^2.5.0"
+  }
+}

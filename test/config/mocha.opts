@@ -1,0 +1,4 @@
+--colors
+--require ./test/config/bootstrap.js
+--recursive
+ 
