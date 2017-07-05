@@ -1,0 +1,4 @@
+*.tpl.js
+build
+examples
+node_modules

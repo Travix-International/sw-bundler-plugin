@@ -1,0 +1,7 @@
+{
+  "extends":[
+    "travix/base",
+    "travix/rules/node",
+    "travix/rules/best-practices"
+  ]
+}
