@@ -1,5 +1,7 @@
 # sw-bundler-plugin
 
+[![npm](https://img.shields.io/npm/v/sw-bundler-plugin.svg)](https://www.npmjs.com/package/sw-bundler-plugin)  [![Build Status](https://travis-ci.org/Travix-International/sw-bundler-plugin.svg?branch=master)](https://travis-ci.org/Travix-International/sw-bundler-plugin)
+
 *yet another Webpack plugin for the Service-Workers*
 
 A service-workers bundler for Webpack.
