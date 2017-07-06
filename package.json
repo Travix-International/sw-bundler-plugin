@@ -4,8 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "serve": "webpack-dev-server --open",
-    "linter": "eslint .",
+    "start": "webpack-dev-server --open",
+    "lint": "eslint .",
     "test": "mocha --opts ./test/config/mocha.opts ./test/*.spec.js"
   },
   "keywords": [
